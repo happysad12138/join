@@ -1,0 +1,9 @@
+.usershow{width:95%;height:3rem;padding: .1rem;margin: 0 auto}
+.usershowbox{width:90%;margin:0 auto;padding: .1rem;border: 1px solid #D8DADC;height:100%}
+.usershowpage{width:85%;margin:0 auto;position: relative;height:100%}
+.headimg{width:.7rem;height:.7rem;position: absolute;left:35%;top:.1rem;border-radius: 50%;overflow: hidden;}
+.headimg img{width:100%;height:100%;}
+.msg span{margin:0 .2rem}
+.msg{position: absolute;top:1.2rem;left:15%}
+.des{position: absolute;top:1.5rem}
+.nikename{position: absolute;top:.9rem;left:11%;width:2rem;text-align: center;}

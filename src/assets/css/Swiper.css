@@ -1,0 +1,15 @@
+
+.bo  li{width:3.45rem;float:left;position: relative;height:100%}
+
+.bo {overflow: hidden;width:20rem;}
+
+
+
+
+.banner{width: 90%;border: 1px solid #D8DADC;margin: 0 auto;padding: .1rem;overflow: hidden;height:2.35rem}
+
+.bo{margin:0 auto;height:100%;}
+.flo{position: absolute;height: 50%;left:0;bottom: 0;padding: 0.5em 0.8em;text-align: center;
+    background: rgba(38, 49, 59, 0.54);width:3.15rem;color:white}
+    .flo h2{text-align: left;}
+    .flo p{text-align: left;}

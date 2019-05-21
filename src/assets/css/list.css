@@ -1,0 +1,27 @@
+
+.detaillistbox{width:95%;margin:0 auto;border: 1px solid #D8DADC;height:100%}
+.detaillistpage{width:100%;margin:0 auto;position: relative;height:100%}
+.detaillistpage h3{background:#f53f1a;color:#fff ;width:100%}
+
+.lista{float: left;
+    width: .83rem;height:.83rem;margin-left: .1rem;margin-right: .1rem}
+
+.listmove{  padding: .15rem 0;
+    border-bottom: 1px dotted #000;overflow: hidden;}
+    .listmove img{
+        max-width: 100%;
+    height: 100%;
+    }
+    .listright{
+        width: 66%;
+    margin-left: 0.6em;
+    float: left;
+    }
+    .listright h4{}
+    .listright p{
+        color: #302e2e;
+        font-size: .12rem;
+        margin: .12rem 0;
+        line-height: .2rem;
+        font-weight: 400;}
+    
